@@ -11,9 +11,9 @@ Software developer from Israel who likes working close to the system: from **C o
 
 ## 🛠️ Tech
 
-**Languages:** C · Python · JavaScript · SQL
-**Data & messaging:** Kafka · RabbitMQ · PostgreSQL · Elasticsearch · pandas
-**Backend & AI:** FastAPI · LangChain · LangGraph · Node.js/Express · Docker Compose · Git · GitHub Actions · Linux
+**Languages:** C · Python · JavaScript · SQL  
+**Data & messaging:** Kafka · RabbitMQ · PostgreSQL · Elasticsearch · pandas  
+**Backend & AI:** FastAPI · LangChain · LangGraph · Node.js/Express · Docker Compose · Git · GitHub Actions · Linux  
 **Embedded:** C · drivers & interrupts · Makefiles
 
 ## 📌 Featured projects
